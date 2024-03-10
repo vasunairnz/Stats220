@@ -8,4 +8,4 @@
   * Meme creation
   * HTML creation
 
-### Here is a link to my [linkden page](https://www.linkedin.com/in/vasu-nair-abb2ba220/)if you wish to get in contact with me
+### Here is a link to my [linkden page](https://www.linkedin.com/in/vasu-nair-abb2ba220/) if you wish to get in contact with me
